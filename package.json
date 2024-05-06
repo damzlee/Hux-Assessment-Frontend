@@ -9,18 +9,31 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "reactjs-popup": "^2.0.6"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.3"
-  }
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damzlee/Hux-Assessment-Frontend.git"
+  },
+  "author": "Damzlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damzlee/Hux-Assessment-Frontend/issues"
+  },
+  "homepage": "https://github.com/damzlee/Hux-Assessment-Frontend#readme"
 }
